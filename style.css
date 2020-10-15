@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#backgroundfoter{
+    height: 60vh; 
+    background: #2F2F2F;
+    color: rgb(248, 237, 237);
+    font-family:sans-serif;
+ }
+ #navfooterimg{
+     display: flex;
+     justify-content: space-between;
+     padding-top: 15%;
+     padding-left: 25%;
+     padding-right: 25%;
+ }
+#navsecgrid{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 3%;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: blanchedalmond;
+}
+.abdulh1{
+    font-size: 1.8em;
+    word-spacing: 10px;
+    padding-left: 10%;
+    padding-top: 3%;
+}
+.abdulpar1{
+    padding-top: 2%; 
+}
+#navsecgrid span{
+    color: #65C770;
+    font-size: 14px;
+    padding-left: 20px;
+}
+#footernavsuche{
+   width: 32vw;
+   height: 5.2vh;
+   padding-top: 1.6%;
+}
+#footernavsubmit{
+    width: 10vw;
+    height: 7.1vh;
+    padding-top: 1%;
+    background: #65C770;
+    color: white;
+    font-size: 16px;
+}
+.navdivsubmit{
+    padding-top: 3%;
+}
+.navborderbottom{
+    border-bottom: 2px black solid;
+    width: 86%;
+    padding-top: 1.5%;
+    margin-left: 7%;
+}
+ #navfooter2link{
+    text-align: right;
+}
+.navfootfootsec{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 7%;
+    padding-right: 7%;
+    
+}
+.fotpaze1padi{
+    display: flex;
+    justify-content: space-between;
+}
+#fotnavimg{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 9%;
+}
+.fotnavppptop{
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.navfootfootsec p{
+    font-size: 15px;
+}
+.navfootfootsec span{
+    font-size: 13px;
+}
+#fotnavparaaa0{
+    padding-top: 5.3%;
+}
